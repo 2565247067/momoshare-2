@@ -1,3 +1,6 @@
 2024-12-09 11:35:38
 
 总代理数量15770，已完成15770，墨墨分享链接访问成功0次。错误统计：{'proxy_connect': 0, 'timeout': 15769, 'proxy_internal': 0, 'momo_connect': 0, 'other': 0, '指定的网络名不再可用': 0, '信号灯超时时间已到': 0, '远程主机强迫关闭了一个现有的连接': 0, '<InvalidUrlClientError >': 15769, 'http://:0': 1}
+2024-12-09 12:28:19
+
+总代理数量15826，已完成15826，墨墨分享链接访问成功0次。错误统计：{'proxy_connect': 0, 'timeout': 15825, 'proxy_internal': 0, 'momo_connect': 0, 'other': 0, '指定的网络名不再可用': 0, '信号灯超时时间已到': 0, '远程主机强迫关闭了一个现有的连接': 0, '<InvalidUrlClientError >': 15825, 'http://:0': 1}
